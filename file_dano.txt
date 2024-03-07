@@ -1,1 +1,2 @@
 Toto je prvy riadok.
+Toto je druhy riadok pridany v develop vetve.
